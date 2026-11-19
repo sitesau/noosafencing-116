@@ -1,0 +1,22 @@
+{
+  "wheel_id": 930,
+  "structure": "umbrella",
+  "slug": "noosafencing-116",
+  "project": "fencing-contractors-sunshine-coast-suburb-guide-018ebe14dcd7a3f",
+  "parent_t1_ref": "noosafencing-157",
+  "node_role": "feeder",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors sunshine coast suburb guide",
+  "intended_url": "https://sitesau.github.io/noosafencing-116/",
+  "tier": "T2",
+  "writeback_nonce": "e2c9a7a0c4c7ecc9",
+  "links": [
+    {
+      "target_url": "http://fencing-contractors-sunshine-coast-7954a0604c659247ee963855fb94.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Fencing Contractors Sunshine Coast: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
